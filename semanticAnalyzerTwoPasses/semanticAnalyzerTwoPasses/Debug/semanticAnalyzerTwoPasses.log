@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(453,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(457,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(1114,20): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(1170,23): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(1187,25): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(1222,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(1312,25): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(1442,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\semanticAnalyzerTwoPasses\Source.cpp(585): warning C4715: 'Parser::getToken': not all control paths return a value
+  semanticAnalyzerTwoPasses.vcxproj -> D:\Lectures\level 4 semster 1\Advanced Compiler\labs\semanticAnalyzerTwoPasses\Debug\semanticAnalyzerTwoPasses.exe

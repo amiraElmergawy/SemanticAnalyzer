@@ -1,0 +1,11 @@
+1) Each distinct <name> may be declared at most once in the <declartionseq> of any <block> and listed at most once in any <parameter-list>.
+2) A  <name> contained in a command C must either be declared in some <block> containing C or listed in the <parameter-list> of some procedure containing C.
+If there is more than one such defining occurrence of the <name>, it is the innermost one that applies in C.
+3) The <name> on the left side of an assignment command must be declared as a variable, 
+and the expression on the right must be of the same type. 
+4) A  <name> occurring as an (integer) element must be an integer variable.
+5) A  <name> occurring as a Boolean element must be a Boolean variable.
+6) The <name> occurring in a read command must be an integer variable. 
+7) The <name> in call command must be of type proc.
+If the procedure so named has parameters, an equal number of <name>s must be present in the call , 
+and the type  of each name must match the type of the corresponding parameter. 

@@ -1,0 +1,13 @@
+Program <== Program(Block)
+Block <== Block(Decl+ , Comd+)
+Decl <== Var(Type , name+) | Proc(name , Cproc)
+Cproc <== Cproc(Comd) | CprocWithParams(Params+ , Comd)
+Type <== int | bool
+Params <== Params(Type , name+)
+Comd <== Assign(name , dExpr) | Read(name) | Write(Expr) |
+		 Ifthen(Expr , Comd+) | Ifelse(Expr , Comd+ , Comd+) | 
+		 While(Expr , Comd+) | Call(name) | 
+		 CallWithParams(name,name+) | ComdBlock(Block)
+Expr <== Number | Name | Parn(Expr) | -(Expr) | Not(Expr) | 
+		 OP(Expr ,Expr)
+OP <== OR | AND | <= | < | = | > | => | <> | + | - | * | /
