@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(453,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(499,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(536,21): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(549,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(662,24): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(981,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  0 of 379 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Semantics.vcxproj -> D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Release\Semantics.exe

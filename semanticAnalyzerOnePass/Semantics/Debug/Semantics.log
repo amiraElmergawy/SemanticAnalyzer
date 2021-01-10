@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(449,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(489,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(526,21): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(539,22): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(646,24): warning C4018: '<': signed/unsigned mismatch
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(959,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Semantics\Source.cpp(397): warning C4715: 'Parser::getToken': not all control paths return a value
+  Semantics.vcxproj -> D:\Lectures\level 4 semster 1\Advanced Compiler\labs\Semantics\Debug\Semantics.exe
